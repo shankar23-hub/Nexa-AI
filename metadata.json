@@ -1,0 +1,9 @@
+{
+  "name": "NEXA - Next-Gen IT Solutions",
+  "description": "NEXA is a cutting-edge IT management ecosystem for high-performance teams. Our portal integrates advanced staff profiling, real-time project tracking, and AI-driven workload distribution to streamline operations. Experience a futuristic interface with glassmorphism aesthetics, neon-lit dashboards, and seamless data visualization. NEXA empowers IT leaders.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
